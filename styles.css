@@ -1,0 +1,16 @@
+input {
+    padding: 6px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 6px;
+    display: block;
+}
+
+input.talalt {
+    border-color: green;
+}
+
+input.nemtalalt {
+    border-color: red;
+}
