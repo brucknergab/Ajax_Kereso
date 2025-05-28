@@ -10,9 +10,3 @@ Ez a projekt egy egyszerű PHP + JavaScript alkalmazás, amely ID alapján szem�
 - `keres.php`: AJAX kérés szerver oldali feldolgozása
 - `CSS/styles.css`: Stílus fájl
 - `JS/ajax.js`: JavaScript eseménykezelő
-
-## Git használata
-
-1. Inicializálás:
-   ```bash
-   git init
